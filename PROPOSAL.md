@@ -1,5 +1,5 @@
 # **PROPOSAL**
-### Param Patel, Saif Awan
+### Group 11 - Param Patel, Saif Awan
 ### CS301-103
 ### Topic - Loan Prediction
 ### Project Proposal
