@@ -1,7 +1,7 @@
 # **PROPOSAL**
 ### Group 11 - Param Patel, Saif Awan
 ### CS301-103
-### Topic - Loan Prediction
+### Topic - Loan Approval Prediction
 ### Project Proposal
 **What is the problem that you will be investigating? Why is it interesting?**
 
